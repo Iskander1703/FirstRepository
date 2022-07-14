@@ -8,6 +8,7 @@ public class Test  {
             Thread.sleep(500);
             a--;
         }
-        System.out.println(GO!);
+        System.out.println("Are you ready?");
+        System.out.println("Go!");
     }
 }
