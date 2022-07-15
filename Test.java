@@ -13,5 +13,6 @@ public class Test  {
         System.out.println("End");
         System.out.println("User2");
          System.out.println("User1 changed");
+             System.out.println("Nihua!");
     }
 }
