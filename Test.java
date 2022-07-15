@@ -12,5 +12,6 @@ public class Test  {
         System.out.println("Go!");
         System.out.println("End");
         System.out.println("Goodbye");
+        System.out.println("Good! From branch master");
     }
 }
