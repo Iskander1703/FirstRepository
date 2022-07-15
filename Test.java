@@ -12,5 +12,6 @@ public class Test  {
         System.out.println("Go!");
         System.out.println("End");
         System.out.println("User2");
+         System.out.println("User1 changed");
     }
 }
