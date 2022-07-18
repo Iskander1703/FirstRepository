@@ -8,6 +8,10 @@ public class Test  {
             Thread.sleep(500);
             a--;
         }
+        
+        System.out.println(opapa);
+                System.out.println(opapa);
+                        System.out.println(opapa);
  
     }
 }
