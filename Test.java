@@ -8,6 +8,11 @@ public class Test  {
             Thread.sleep(500);
             a--;
         }
+        System.out.println(a);
+        System.out.println(a);
+        System.out.println(a);
+        System.out.println(a);
+        System.out.println(a);
  
     }
 }
