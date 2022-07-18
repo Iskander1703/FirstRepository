@@ -10,5 +10,6 @@ public class Test  {
         }
         System.out.println("Are you ready?");
         System.out.println("Go!");
+          System.out.println("ANAN");
     }
 }
