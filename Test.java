@@ -17,6 +17,6 @@ public class Test  {
         System.out.println("User2");
          System.out.println("User1 changed");
           System.out.println("HOHOHO");
-             System.out.println("Nihua!");
+             System.out.println("Nihuaaa!");
     }
 }
