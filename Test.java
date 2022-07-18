@@ -10,11 +10,13 @@ public class Test  {
         }
         System.out.println("Are you ready?");
         System.out.println("Go!");
+          System.out.println("ANAN");
         System.out.println("End");
         System.out.println("Goodbye");
         System.out.println("Good! From branch master");
         System.out.println("User2");
          System.out.println("User1 changed");
           System.out.println("HOHOHO");
+             System.out.println("Nihua!");
     }
 }
