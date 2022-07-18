@@ -8,11 +8,11 @@ public class Test  {
             Thread.sleep(500);
             a--;
         }
-  System.out.println("1");
-        System.out.println("2");
-          System.out.println("3");
-        System.out.println("4");
-        System.out.println("5");
+        System.out.println("Are you ready?");
+        System.out.println("Go!");
+          System.out.println("ANAN");
+        System.out.println("End");
+        System.out.println("Goodbye");
         System.out.println("Good! From branch master");
         System.out.println("User2");
          System.out.println("User1 changed");
