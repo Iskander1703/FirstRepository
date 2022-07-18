@@ -13,6 +13,10 @@ public class Test  {
         System.out.println(a);
         System.out.println(a);
         System.out.println(a);
+        
+        System.out.println(opapa);
+                System.out.println(opapa);
+                        System.out.println(opapa);
  
     }
 }
